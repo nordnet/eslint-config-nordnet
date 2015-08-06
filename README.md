@@ -31,5 +31,5 @@ Add `.eslintrc` config to your project
 
 MIT © [Nordnet Bank AB](https://www.nordnet.se/)
 
-[npm-url]: https://npmjs.org/package/nordnet-release-plugin
-[npm-image]: https://img.shields.io/npm/v/nordnet-release-plugin.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/eslint-config-nordnet
+[npm-image]: https://img.shields.io/npm/v/eslint-config-nordnet.svg?style=flat-square
