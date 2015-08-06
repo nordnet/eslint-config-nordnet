@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-nordnet",
+  "version": "0.0.1",
+  "description": "ESLint config for Nordnet JS applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nordnet/eslint-config-nordnet.git"
+  },
+  "keywords": [
+    "Nordnet",
+    "ESLint",
+    "config",
+    "styleguide",
+    "javascript"
+  ],
+  "author": "Dmitry Demyankov <dmitry.demyankov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nordnet/eslint-config-nordnet/issues"
+  },
+  "homepage": "https://github.com/nordnet/eslint-config-nordnet#readme"
+}
