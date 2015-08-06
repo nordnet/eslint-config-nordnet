@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-nordnet",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "ESLint config for Nordnet JS applications",
   "main": "index.js",
   "scripts": {
