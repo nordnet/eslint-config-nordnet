@@ -14,15 +14,13 @@ Nordnet follows Javascript styleguide suggested by Airbnb. See [Airbnb's Javascr
 
 Install plugin as dev dependency
 
-```bash
-npm install --save-dev eslint-config-nordnet eslint-config-airbnb babel-eslint eslint-plugin-react
-```
+    npm install --save-dev eslint-config-nordnet eslint-config-airbnb babel-eslint eslint-plugin-react
 
 ## Configuration
 
 Add `.eslintrc` config to your project
 
-```js
+```json
 {
   "extends": "eslint-config-nordnet"
 }
