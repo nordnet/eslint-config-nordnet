@@ -4,10 +4,11 @@
 
 > ESLint config for Nordnet Javascript applications
 
-Nordnet follows Javascript styleguide suggested by Airbnb. See [Airbnb's Javascript styleguide][airbnb-styleguide] and the [ESlint config docs][eslint-config-docs] for more information.
+Nordnet follows Javascript styleguide suggested by Airbnb. See [Airbnb's Javascript styleguide][airbnb-styleguide] and the [ESlint config docs][eslint-config-docs] for more information. [Nordnet’s scaffolder][gnem] for projects has built-in support for this config.
 
 [airbnb-styleguide]: https://github.com/airbnb/javascript
 [eslint-config-docs]: http://eslint.org/docs/user-guide/configuring#extending-configuration-files
+[gnem]: https://github.com/nordnet/generator-nordnet-es-module
 
 ## Installation
 
