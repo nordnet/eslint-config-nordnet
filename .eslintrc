@@ -6,7 +6,11 @@
     "node": true,
     "es6": true
   },
+  "globals": {
+    "DEBUG": true
+  },
   "rules": {
-    "no-use-before-define": [2, "nofunc"]
+    "no-use-before-define": [2, "nofunc"],
+    "max-len": [2, 140]
   }
 }
